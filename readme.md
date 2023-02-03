@@ -3,8 +3,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 # <b>다운로드 링크</b>
 ### <b>VISUAL STUDIO CODE</b>
@@ -25,16 +23,12 @@
 
 <br>
 <br>
-<br>
-<br>
 
 # <b>NEED TO FIX</b>
 1. 개발 환경 구성 속도 개선 필요
 2. 파이어베이스 연결을 위해 구글 계정 보안 문제 해결 필요
 3. cmd 사용 불가?? Powershell ISE로 해결
 
-<br>
-<br>
 <br>
 <br>
 
@@ -49,10 +43,13 @@
 > 시스템 변수 항목, Path 편집 > c:\flutter\bin를 추가 후 저장
 <br>
 
-> 
 
 <br>
 <br>
+
+# Git, Github 연동 과정
+> https://tagilog.tistory.com/377
+
 <br>
 <br>
 

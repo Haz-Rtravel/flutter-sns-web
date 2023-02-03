@@ -4,6 +4,16 @@
 <br>
 <br>
 
+# <b>NEED TO FIX</b>
+1. 개발 환경 구성 속도 개선 필요
+2. 파이어베이스 연결을 위해 구글 계정 보안 문제 해결 필요
+3. cmd 사용 불가?? Powershell ISE로 해결, 하지만 코드 내에선 불가. 해결책 필요
+4. HOW THE FUCK?
+
+
+<br>
+<br>
+
 # <b>다운로드 링크</b>
 ### <b>VISUAL STUDIO CODE</b>
 > https://code.visualstudio.com/
@@ -20,14 +30,6 @@
 
 ### <b>웨일 브라우저</b>
 > https://whale.naver.com/
-
-<br>
-<br>
-
-# <b>NEED TO FIX</b>
-1. 개발 환경 구성 속도 개선 필요
-2. 파이어베이스 연결을 위해 구글 계정 보안 문제 해결 필요
-3. cmd 사용 불가?? Powershell ISE로 해결
 
 <br>
 <br>
